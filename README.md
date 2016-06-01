@@ -32,18 +32,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it:  
-> `![Video Walkthrough](walkthrough.gif)` 
-> 
-
 ![Video Walkthrough](walkthrough.gif)
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+ Some challenges encountered while building the app.
++ Have some troubles when connecting the PostgreSql (raise error such as role username doesn't exist, username database doesn't exist)
++ Some scripts don't work on windows
++ Some css in application.scss is not compiled on Heroku
++ Hard to understand architecture of rails framework and implement more features
+
 
 ## License
 
