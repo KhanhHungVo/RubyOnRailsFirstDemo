@@ -1,9 +1,4 @@
-# Pre-work - *Blog*
-
-> HINT: Please
-> - include this README.md in your project and fill out the information. 
-> - remove the `README.rdoc` file that Rails generates. 
-> - remove all the HINT blocks in this file.
+# Pre-work - RubyOnRailsFisrtDemo
 
 RubyOnRailsFirstDemo is a Ruby on Rails blog application.
 
@@ -30,8 +25,6 @@ The following **optional** features are implemented:
 * [ ] User can leave a comment on a post.
 * [ ] User can add "tags" to a post, and filter posts by tag. 
 
-> HINT: if you are unsure how to implement the Search feature, you can Google how to implement a simple search form. For example, one of the sites you will find is [this](http://www.jorgecoca.com/buils-search-form-ruby-rails/)
-
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
@@ -44,7 +37,7 @@ Here's a walkthrough of implemented user stories:
 > `![Video Walkthrough](walkthrough.gif)` 
 > 
 
-![Video Walkthrough](/path/to/your/gif/file)
+![Video Walkthrough](http://imgur.com/CnuWGIn)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
