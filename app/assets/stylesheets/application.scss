@@ -1,0 +1,16 @@
+
+// Custom bootstrap variables must be set or imported before bootstrap itself.
+@import "bootstrap";
+body {
+	background-image: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-12-full.jpg");
+	color:black;
+}
+#article_body {
+	width: 500px;
+}
+div.actions {
+	margin-top: 10px;
+}
+div.card {
+	margin-top: 0.5rem;
+}
